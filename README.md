@@ -43,7 +43,7 @@ GIF created with Kap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled with connecting the backend component of the project.
 
 ## License
 
