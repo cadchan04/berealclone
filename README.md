@@ -68,7 +68,7 @@ I struggled with connecting the backend component of the project.
 
 Submitted by: **Cadence Chan**
 
-**BeReal Clone Pt. 2 ** is a social media app that allows users to post pictures and give original captions. Users are able to sign up and create a new account or log in to an existing account. 
+**BeReal Clone Pt. 2** is a social media app that allows users to post pictures and give original captions. Users are able to sign up and create a new account or log in to an existing account. 
 
 Time spent: **3** hours spent in total
 
