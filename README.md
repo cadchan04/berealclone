@@ -94,7 +94,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cadchan04/berealclone/blob/main/Kapture%202023-02-27%20at%2018.42.27.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cadchan04/berealclone/blob/main/Kapture%202023-03-08%20at%2018.41.45.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
